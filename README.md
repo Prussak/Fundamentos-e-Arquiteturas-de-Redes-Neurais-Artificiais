@@ -1,2 +1,4 @@
 # Fundamentos-e-Arquiteturas-de-Redes-Neurais-Artificiais
 Os fundamentos das Redes Neurais Artificiais (RNAs) baseiam-se na criação de modelos computacionais inspirados na estrutura e no funcionamento do sistema nervoso central e do cérebro biológico. No contexto da Inteligência Artificial (IA), elas representam a vertente da IA Conexionista, que busca imitar o processamento de informações através da interação de um grande número de unidades processadoras simples (neurônios) que enviam sinais entre si, diferenciando-se da IA Simbólica baseada em regras rígidas.
+
+https://notebooklm.google.com/notebook/4608faf2-850f-4ea2-8b8e-48e20f959bcd
